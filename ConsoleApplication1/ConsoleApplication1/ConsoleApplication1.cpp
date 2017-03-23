@@ -7,7 +7,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 
-	printf ("Pozdrav iz aplikacije od Lare Grbec");
+	printf ("Pozdrav iz aplikacije od Lare Grbec, broj indeksa D823");
 	return 0;
 }
 
